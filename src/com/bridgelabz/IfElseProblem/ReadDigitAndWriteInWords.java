@@ -48,6 +48,9 @@ public class ReadDigitAndWriteInWords {
 			System.out.println("Input number is Nine");
 			
 		}
+		else {
+			System.out.println("Invalid input");
+		}
 		
 			
 	}

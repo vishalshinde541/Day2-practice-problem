@@ -24,7 +24,7 @@ public class SumOfNaturalNumbers {
 		}
 		
 		//print the value of sum in console tab
-		System.out.println(sum);
+		System.out.println("Sum of Natural numbers of "+num1+ " is : " + sum);
 	}
 
 }
